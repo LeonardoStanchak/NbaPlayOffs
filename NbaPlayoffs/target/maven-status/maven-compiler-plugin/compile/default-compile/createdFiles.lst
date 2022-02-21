@@ -1,0 +1,9 @@
+br\com\Nba\Playoffs\Model\NbaPlayOffsModel.class
+br\com\Nba\Playoffs\Repository\NbaPlayOffsRepository.class
+br\com\Nba\Playoffs\NbaPlayoffsApplication.class
+br\com\Nba\Playoffs\from\NbaPlayOffsAttForm.class
+br\com\Nba\Playoffs\Config\Validacao\ErroDeValidacoes.class
+br\com\Nba\Playoffs\Config\Validacao\dto\ErroNbaDTO.class
+br\com\Nba\Playoffs\Controller\NbaPlayoffsController.class
+br\com\Nba\Playoffs\Dto\NbaPlayOffsDto.class
+br\com\Nba\Playoffs\from\NbaPlayOffsForm.class
